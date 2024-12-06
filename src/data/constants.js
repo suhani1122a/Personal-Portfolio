@@ -239,7 +239,7 @@ export const projects = [
     description:
       "A banking application built using Java, JFrame, and Swing, featuring a user-friendly interface for managing accounts, viewing balances, and performing transactions.",
     image:
-      "https://private-user-images.githubusercontent.com/109650661/392523260-8fc2c1dd-e003-4139-9732-219fba78c911.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMzMzc2NzYsIm5iZiI6MTczMzMzNzM3NiwicGF0aCI6Ii8xMDk2NTA2NjEvMzkyNTIzMjYwLThmYzJjMWRkLWUwMDMtNDEzOS05NzMyLTIxOWZiYTc4YzkxMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIwNFQxODM2MTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kYjY5ODRiZDczZjI0MjkyNDA5YzUwMWY5NWQwZDc5NDZmM2EyZjZmNWU5NDQ1MWI5YzEyOWNmMDUxYTdiNzhjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.1NAwfpsHpsocWOjydLqT0msLndCSKv-kEnwWYdr6Tyw",
+      "https://github.com/user-attachments/assets/8fc2c1dd-e003-4139-9732-219fba78c911",
     
     github: "https://github.com/suhani1122a/Prime-Bank",
   },
@@ -249,7 +249,7 @@ export const projects = [
     description:
       "An AI-based chatbot for customer support developed using Python, leveraging Cohere's API to fetch data and provide intelligent, real-time responses.",
     image:
-      "https://private-user-images.githubusercontent.com/109650661/392524010-d1cd175a-de48-4d4a-8725-27ea1f6f32a9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMzMzc4MjUsIm5iZiI6MTczMzMzNzUyNSwicGF0aCI6Ii8xMDk2NTA2NjEvMzkyNTI0MDEwLWQxY2QxNzVhLWRlNDgtNGQ0YS04NzI1LTI3ZWExZjZmMzJhOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIwNFQxODM4NDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NDEzMTQ3YWZlOTc0ZGExMGJjMTY1NDAzMGIxYjJkYzJiMDZhM2Q5MTVjZDNlZDQxMmM4ZTdhZTY4YWMzNDgzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.IkoqPPnWQSeG4htGjhG7zykjJzZORrxCnxIgxVooRDo",
+      "https://github.com/user-attachments/assets/d1cd175a-de48-4d4a-8725-27ea1f6f32a9",
     
     github: "https://github.com/suhani1122a/AI-Based-Chatbot-for-Customer-Support",
     
@@ -260,7 +260,7 @@ export const projects = [
     description:
       "Kiddo Mart is an e-commerce website built using the MERN stack, featuring user authentication in the backend and interactive components in the frontend, designed to offer a seamless shopping experience for baby and kids' products.",
     image:
-      "https://private-user-images.githubusercontent.com/109650661/392524496-50215821-bbbe-4c12-992a-c1f7747629c4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMzMzc5MjgsIm5iZiI6MTczMzMzNzYyOCwicGF0aCI6Ii8xMDk2NTA2NjEvMzkyNTI0NDk2LTUwMjE1ODIxLWJiYmUtNGMxMi05OTJhLWMxZjc3NDc2MjljNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIwNFQxODQwMjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MzUzYzAyYjQyMTdkNmU5Yzc4NjZkMTM3MDBlMjg2NWYzNDFlNTE0NzNhYjI5MTk3ZDZiYTAwOTdiOTU0ZTljJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.1LFu8OT3X6W50DzptIyvjheTJQ1YwZQUnCCbJC6b7Ik",
+      "https://github.com/user-attachments/assets/50215821-bbbe-4c12-992a-c1f7747629c4",
     github: "https://github.com/suhani1122a/KiddoMart",
     
   },
