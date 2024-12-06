@@ -5,7 +5,7 @@ export const Bio = {
     "My work emphasizes crafting user-friendly interfaces, developing secure and efficient server-side applications, and delivering end-to-end solutions that cater to both user and business needs. My portfolio highlights projects that reflect my ability to harmonize design, functionality, and performance to deliver impactful results.",
   github: "https://github.com/suhani1122a",
   resume:
-    "https://drive.google.com/file/d/1pTkqzxYwYJDVGPOfK0lUVwHot0skrd3L/view?usp=sharing",
+    "https://drive.google.com/file/d/1VpzttZq4IcCH7i24jG13mRvFMf8k8cXm/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/suhani-agarwal-946b1522b/",
 };
 
