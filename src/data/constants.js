@@ -229,7 +229,7 @@ export const projects = [
     description:
       "A mock interview platform called Mockify built with the MERN stack, socket.io, and peerjs, featuring real-time audio/video calls, collaborative code editing, and seamless communication tools.",
     image:
-      "https://private-user-images.githubusercontent.com/109650661/392522846-2e160546-2168-48bc-8067-94ccc1ea6f1e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMzMzc1OTQsIm5iZiI6MTczMzMzNzI5NCwicGF0aCI6Ii8xMDk2NTA2NjEvMzkyNTIyODQ2LTJlMTYwNTQ2LTIxNjgtNDhiYy04MDY3LTk0Y2NjMWVhNmYxZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIwNFQxODM0NTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hMjE4NTIyMmJlZTIzM2JjYzU0MzIzZTgzNzVkMDA4NWNhMjg0NWRmOTE4ZTJmNDY5NjgxNTE0N2ZjMjc2NjQzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.P8_YeTGhe1NwMcUF2bL5bIoiKJ1oQjCftAWaDIhlrts",
+      "https://github.com/user-attachments/assets/2e160546-2168-48bc-8067-94ccc1ea6f1e",
     
     github: "https://github.com/suhani1122a/Mockify",
   },
