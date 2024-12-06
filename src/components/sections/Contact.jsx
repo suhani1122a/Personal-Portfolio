@@ -71,11 +71,19 @@ const ContactInput = styled.input`
   outline: none;
   display: flex;
   flex-direction: column;
-   margin-bottom: 16px;
+  margin-bottom: 16px;
   font-size: 18px;
   color: ${({ theme }) => theme.text_primary};
   border-radius: 12px;
-  padding: 12px 126px;
+  padding: 12px;
+  width: 100%; // Make input take full width
+  box-sizing: border-box; 
+
+  @media (max-width: 768px) {
+    font-size: 16px; 
+    padding: 10px; 
+  }
+
   &:focus {
     border: 1px solid ${({ theme }) => theme.primary};
   }
@@ -89,7 +97,15 @@ const ContactInputMessage = styled.textarea`
   color: ${({ theme }) => theme.text_primary};
   border-radius: 12px;
   margin-bottom: 16px;
-  padding: 12px 126px;
+  padding: 12px;
+  width: 100%; 
+  box-sizing: border-box; 
+
+  @media (max-width: 768px) {
+    font-size: 16px; 
+    padding: 10px; 
+  }
+
   &:focus {
     border: 1px solid ${({ theme }) => theme.primary};
   }
@@ -106,6 +122,10 @@ const ContactButton = styled.input`
   color: ${({ theme }) => theme.text_primary};
   font-size: 18px;
   font-weight: 600;
+  @media (max-width: 768px) {
+    font-size: 16px; 
+    padding: 12px; 
+  }
 `;
 
 const Contact = () => {
